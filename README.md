@@ -20,5 +20,5 @@ This marketing agency follows accessibilty standards and with its codebase optim
 ## Site Demo
 
 ```
-This site can be seen with [GitHub Pages](https://bootcampdev.github.io/code-refractor-hwk2/).
+This site can be seen with [GitHub Pages] (https://bootcampdev.github.io/code-refractor-hwk2/).
 ```
