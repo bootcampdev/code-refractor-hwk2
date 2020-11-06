@@ -4,7 +4,8 @@ Refractor an existing web page to consolidate code and include accessibility sta
 ## Horiseon Marketing Agency
 
 ```
-This marketing agency follows accessibilty standards and with its codebase optimized for search engines.  This includes semantic HTML elements and structures, independent element styling and web page positioning.
+This marketing agency follows accessibilty standards and with its codebase optimized for search engines.  
+This includes semantic HTML elements and structures, independent element styling and web page positioning.
 ```
 
 ## Our Acceptance Criteria
@@ -20,5 +21,6 @@ This marketing agency follows accessibilty standards and with its codebase optim
 ## Site Demo
 
 ```
-This site can be seen with [GitHub Pages] (https://bootcampdev.github.io/code-refractor-hwk2/).
+This site can be seen with:
+[GitHub Pages](https://bootcampdev.github.io/code-refractor-hwk2/)
 ```
