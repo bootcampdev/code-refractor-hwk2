@@ -16,6 +16,7 @@ This includes semantic HTML elements and structures, independent element styling
 - Image elements include alt attributes for missing images
 - Heading attributes fall in sequential order
 - Title element include a concise, descriptive title for the user
+- When the window is resized the menu items are neatly tucked under heading using a media break point
 ```
 
 ## Site Demo
